@@ -1,0 +1,34 @@
+.navbar {
+    margin-bottom: 0; /* Remove the margin-bottom */
+    background-color: #100;
+  }
+.jumbotron {
+    margin-top: 0; /* Remove the margin-top */
+    background-color: #c6bfbf;
+  }
+.header_content{
+    font: Arial;
+}
+
+.collapsed-content{
+    font: Helvetica;
+
+  }
+
+#demo {
+    font: Helvetica !important;
+  }
+
+.read_more{
+text-decoration: underline;
+}
+.body_content{
+font:sans-serif;
+}
+.footer {
+position: fixed;
+bottom: 0;
+width: 100%;
+background-color: #0b4d14;
+color: white;
+}

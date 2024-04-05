@@ -1,0 +1,31 @@
+.container {
+    width: 200px;
+    height: 300px;
+    border: 3px solid #ccc; /* Add border */
+    overflow: auto; /* Enable scrolling if content overflows */
+    padding: 20px;
+  }
+  
+  .left-container {
+    float: left;
+    margin-right: 100px; /* Adjust margin to create space between containers */
+}
+
+  /* mystyle.css */
+  .course-container.odd-course {
+    background-color: rgb(221, 239, 221);
+  }
+  
+.course-container{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #count-credit {
+    margin-top: 60px; /* Add margin at the top */
+}
